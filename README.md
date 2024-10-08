@@ -12,4 +12,4 @@ brayan.cremona@escola.pr.gov.br
 
 @brayanrc2024
 
- ![](https://tenor.com/pt-BR/view/dog-meme-bom-dia-gif-11333912755061888862)
+ ![](https://media.tenor.com/nUolmeC7l14AAAAi/dog-meme.gif)
