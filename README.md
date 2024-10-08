@@ -1,16 +1,15 @@
-## Hi there 👋
+### _Bem-Vindo(a) ao meu perfil_ 🍪
 
-<!--
-**Brayan-do-grau/Brayan-do-grau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Brayan R. Cremona 🤙
 
-Here are some ideas to get you started:
+- Estou estudando no Colégio Estadual do Campo Lageado Bonito
+- Estou cursando o [Alura](https://www.alura.com.br/)
+- Me desenvolvendo na linguagem JavaScript pelo [p5.js](https://p5js.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### E-mail e Insta
+
+brayan.cremona@escola.pr.gov.br
+
+@brayanrc2024
+
+ ![](https://tenor.com/pt-BR/view/dog-meme-bom-dia-gif-11333912755061888862)
